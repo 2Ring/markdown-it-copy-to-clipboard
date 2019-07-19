@@ -1,0 +1,14 @@
+{
+  "name": "markdown-it-copy-to-clipboard",
+  "version": "1.0.0",
+  "description": "Creates an icon in pre elements for copying that can be handled to copy their content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it": "^9.0.1"
+  }
+}
